@@ -236,14 +236,26 @@ h1{
 	text-align:center;
 	padding-bottom: 5px;
 }
+
+#sec-prueba h1{
+ text-align: center;
+ font-family: 'Oswald', sans-serif;
+ font-weight:600;
+ text-transform: uppercase;
+ font-size: 35px;
+ margin-bottom: 20px;
+}
+	
 .btn-dark{
+  text-transform:uppercase;
   border-radius: 65px;
   font-size: 15px;
   color: #1e1d2b;
   background-color: #fff;
   border-color: #1e1d2b;
   margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 5px;
+  margin-left: 15px;
 }
 
 .btn-dark:hover{
